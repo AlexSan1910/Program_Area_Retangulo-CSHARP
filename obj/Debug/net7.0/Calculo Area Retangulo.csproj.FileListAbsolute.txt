@@ -1,0 +1,15 @@
+C:\Users\alex.gomes\Desktop\Documentos\Exercicios C#\Calculo Area Retangulo\obj\Debug\net7.0\Calculo Area Retangulo.csproj.AssemblyReference.cache
+C:\Users\alex.gomes\Desktop\Documentos\Exercicios C#\Calculo Area Retangulo\obj\Debug\net7.0\Calculo Area Retangulo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alex.gomes\Desktop\Documentos\Exercicios C#\Calculo Area Retangulo\obj\Debug\net7.0\Calculo Area Retangulo.AssemblyInfoInputs.cache
+C:\Users\alex.gomes\Desktop\Documentos\Exercicios C#\Calculo Area Retangulo\obj\Debug\net7.0\Calculo Area Retangulo.AssemblyInfo.cs
+C:\Users\alex.gomes\Desktop\Documentos\Exercicios C#\Calculo Area Retangulo\obj\Debug\net7.0\Calculo Area Retangulo.csproj.CoreCompileInputs.cache
+C:\Users\alex.gomes\Desktop\Documentos\Exercicios C#\Calculo Area Retangulo\bin\Debug\net7.0\Calculo Area Retangulo.exe
+C:\Users\alex.gomes\Desktop\Documentos\Exercicios C#\Calculo Area Retangulo\bin\Debug\net7.0\Calculo Area Retangulo.deps.json
+C:\Users\alex.gomes\Desktop\Documentos\Exercicios C#\Calculo Area Retangulo\bin\Debug\net7.0\Calculo Area Retangulo.runtimeconfig.json
+C:\Users\alex.gomes\Desktop\Documentos\Exercicios C#\Calculo Area Retangulo\bin\Debug\net7.0\Calculo Area Retangulo.dll
+C:\Users\alex.gomes\Desktop\Documentos\Exercicios C#\Calculo Area Retangulo\bin\Debug\net7.0\Calculo Area Retangulo.pdb
+C:\Users\alex.gomes\Desktop\Documentos\Exercicios C#\Calculo Area Retangulo\obj\Debug\net7.0\Calculo Area Retangulo.dll
+C:\Users\alex.gomes\Desktop\Documentos\Exercicios C#\Calculo Area Retangulo\obj\Debug\net7.0\refint\Calculo Area Retangulo.dll
+C:\Users\alex.gomes\Desktop\Documentos\Exercicios C#\Calculo Area Retangulo\obj\Debug\net7.0\Calculo Area Retangulo.pdb
+C:\Users\alex.gomes\Desktop\Documentos\Exercicios C#\Calculo Area Retangulo\obj\Debug\net7.0\Calculo Area Retangulo.genruntimeconfig.cache
+C:\Users\alex.gomes\Desktop\Documentos\Exercicios C#\Calculo Area Retangulo\obj\Debug\net7.0\ref\Calculo Area Retangulo.dll
